@@ -1,0 +1,7 @@
+#build a table
+
+CREATE TABLE table_name (
+    "int" character(20) NOT NULL,
+    strings character(20) NOT NULL,
+    "boolean" character(20) NOT NULL
+
